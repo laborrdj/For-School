@@ -1,0 +1,63 @@
+body{
+    font-family: 'Gayathri', 'kenia'; background-color: 93C0A4;
+}
+.logo i {
+	font-size: 31px;
+	margin-right: 4px;
+	word-spacing: 14px;
+}
+.logo{
+	color: white;
+	margin: 0;
+	font-size: 40px;
+	padding: 4px 0;
+	padding-bottom: 15px;
+	
+
+}
+.login-bottom-text{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 12px;
+	color: white;
+	line-height: 19px;
+}
+
+header{
+	background: #335C67;
+	padding-top: 20px;
+}
+header .form-group{
+	margin-bottom: 0px;
+}
+header .btn-header-login{
+	margin-bottom: 15px;	
+}
+.login-main{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 100px ;
+ 
+  ;
+}
+.multibox{
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+.login-main span{
+	padding-left: 0px;
+	padding-bottom: 10px;
+} 
+
+
+
+footer hr{
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.copyrights{
+	margin-top: 25px;
+}
